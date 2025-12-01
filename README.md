@@ -65,6 +65,13 @@ TraceID 기반 통합 로그 수집 + AI 자동 에러 진단 시스템
   - Blue-Green 무중단 배포 파이프라인 구현
 - **기술 스택**: Spring Boot, FastAPI, Kafka, OpenSearch, LangChain, AWS EKS, Prometheus, Grafana
 
+#### 💰 OSM (Fintech-OSM) - [프로젝트 설명 필요]
+> SSAFY 프로젝트 | 2024
+
+- **역할**: [역할 정보 필요]
+- **핵심 성과**: [성과 정보 필요]
+- **기술 스택**: Prometheus, Grafana, [추가 스택 필요]
+
 #### 🍯 꿀띱 (KKULDDIP) - 실시간 경매 플랫폼
 > SSAFY 프로젝트 | 2024
 
@@ -79,23 +86,8 @@ WebSocket 기반 실시간 경매 서비스
 ### 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01040307z@gmail.com&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leeSeokKyu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goni02" height="165"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01040307z@gmail.com&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
----
-
-### 📫 Contact
-
-<div align="center">
-  <a href="mailto:01040307z@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="YOUR_NOTION_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-</div>
+<div align=
