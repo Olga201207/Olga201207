@@ -80,7 +80,7 @@ WebSocket 기반 실시간 경매 서비스
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_USERNAME" height="165"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goni02" height="165"/>
 </div>
 
 <div align="center">
