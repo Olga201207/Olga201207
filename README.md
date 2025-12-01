@@ -54,7 +54,7 @@
 ### 🚀 Featured Projects
 
 #### 🔍 LogLens - AI 기반 로그 분석 모니터링 시스템
-> SSAFY 13기 자율 프로젝트 | 2024.10 - 2024.11 | 팀 A306 (꿀띱 경제학당)
+> SSAFY 13기 자율 프로젝트 | 2025.10 - 2025.11 | 6인 팀 프로젝트
 
 TraceID 기반 통합 로그 수집 + AI 자동 에러 진단 시스템
 
@@ -66,7 +66,7 @@ TraceID 기반 통합 로그 수집 + AI 자동 에러 진단 시스템
 - **기술 스택**: Spring Boot, FastAPI, Kafka, OpenSearch, LangChain, AWS EKS, Prometheus, Grafana
 
 #### 💰 OSM - 청소년 금융 교육 플랫폼
-> SSAFY 13기 특화 프로젝트 | 2024.08 - 2024.10 | 6인 팀 프로젝트
+> SSAFY 13기 특화 프로젝트 | 2025.08 - 2025.10 | 6인 팀 프로젝트
 
 퀴즈, 상품 거래, 마니또 활동을 통한 게이미피케이션 기반 금융 교육 서비스
 
@@ -78,26 +78,45 @@ TraceID 기반 통합 로그 수집 + AI 자동 에러 진단 시스템
 - **기술 스택**: Spring Boot, Spring Security, JPA, MySQL, Redis, FastAPI, Docker, Nginx, Prometheus, Grafana
 
 #### 🍯 꿀띱 (KKULDDIP) - 실시간 경매 플랫폼
-> SSAFY 프로젝트 | 2024
+> SSAFY 프로젝트 | 2025.07 - 2025.08
 
-WebSocket 기반 실시간 경매 서비스
+WebRTC 기반 실시간 경매 서비스
 
 - **역할**: Backend Developer
 - **핵심 성과**: 실시간 입찰 처리 최적화, **90% 이상 성능 개선**
-- **기술 스택**: Spring Boot, WebSocket, Redis, MySQL
+- **기술 스택**: Spring Boot, WebRTC, SSE, Redis, MySQL
 
 ---
 
 ### 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olga201207&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  
+  <!-- GitHub Stats - 직접 Vercel 배포 후 URL 교체 권장 -->
+  <!-- 현재: 공용 인스턴스 (Rate Limit 발생 가능) -->
+  <!-- 해결: 본인 Vercel 인스턴스 배포 후 URL 교체 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Olga201207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  
+  <!-- 백준 티어 -->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goni02" height="165"/>
+  
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olga201207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
+
+<!-- 
+📌 GitHub Stats가 안 보일 경우 해결 방법:
+
+1. 직접 Vercel 배포 (권장):
+   - https://github.com/anuraghazra/github-readme-stats Fork
+   - Vercel에서 Import 후 PAT_1 환경변수 설정
+   - 배포된 URL로 교체
+
+2. 위 URL을 본인 Vercel URL로 교체:
+   https://github-readme-stats.vercel.app → https://YOUR-INSTANCE.vercel.app
+-->
 
 ---
 
