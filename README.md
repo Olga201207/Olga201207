@@ -65,12 +65,17 @@ TraceID 기반 통합 로그 수집 + AI 자동 에러 진단 시스템
   - Blue-Green 무중단 배포 파이프라인 구현
 - **기술 스택**: Spring Boot, FastAPI, Kafka, OpenSearch, LangChain, AWS EKS, Prometheus, Grafana
 
-#### 💰 OSM (Fintech-OSM) - [프로젝트 설명 필요]
-> SSAFY 프로젝트 | 2024
+#### 💰 OSM - 청소년 금융 교육 플랫폼
+> SSAFY 13기 특화 프로젝트 | 2024.08 - 2024.10 | 6인 팀 프로젝트
 
-- **역할**: [역할 정보 필요]
-- **핵심 성과**: [성과 정보 필요]
-- **기술 스택**: Prometheus, Grafana, [추가 스택 필요]
+퀴즈, 상품 거래, 마니또 활동을 통한 게이미피케이션 기반 금융 교육 서비스
+
+- **역할**: Backend Developer (14개 도메인), CI/CD 파이프라인 구축, 모니터링 시스템 구축
+- **핵심 성과**
+  - Blue-Green 배포로 **서비스 다운타임 제로** 달성
+  - SSE 기반 실시간 알림 시스템 구현
+  - **14개 도메인** 설계 및 대규모 아키텍처 경험
+- **기술 스택**: Spring Boot, Spring Security, JPA, MySQL, Redis, FastAPI, Docker, Nginx, Prometheus, Grafana
 
 #### 🍯 꿀띱 (KKULDDIP) - 실시간 경매 플랫폼
 > SSAFY 프로젝트 | 2024
@@ -90,4 +95,22 @@ WebSocket 기반 실시간 경매 서비스
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goni02" height="165"/>
 </div>
 
-<div align=
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeSeokKyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+---
+
+### 📫 Contact
+
+<div align="center">
+  <a href="mailto:01040307z@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.notion.so/2b7e1b00e2b58036983cd8466ef6ad8a">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  <a href="https://github.com/leeSeokKyu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
