@@ -78,7 +78,7 @@ TraceID 기반 통합 로그 수집 + AI 자동 에러 진단 시스템
 - **기술 스택**: Spring Boot, Spring Security, JPA, MySQL, Redis, FastAPI, Docker, Nginx, Prometheus, Grafana
 
 #### 🍯 꿀띱 (KKULDDIP) - 실시간 경매 플랫폼
-> SSAFY 프로젝트 | 2025.07 - 2025.08
+> SSAFY 프로젝트 | 2025.07 - 2025.08 | 6인 팀 프로젝트
 
 WebRTC 기반 실시간 경매 서비스
 
@@ -89,9 +89,6 @@ WebRTC 기반 실시간 경매 서비스
 ---
 
 ### 📊 Statistics
-
-[![Olga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olga201207&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olga201207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goni02)](https://solved.ac/goni02)
 
