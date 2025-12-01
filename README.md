@@ -110,7 +110,7 @@ WebSocket 기반 실시간 경매 서비스
   <a href="https://www.notion.so/2b7e1b00e2b58036983cd8466ef6ad8a">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
-  <a href="https://github.com/leeSeokKyu">
+  <a href="https://github.com/Olga201207">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
