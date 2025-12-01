@@ -90,22 +90,10 @@ WebRTC 기반 실시간 경매 서비스
 
 ### 📊 Statistics
 
-<div align="center">
-  
-  <!-- ⚠️ 공용 인스턴스는 Rate Limit 발생 가능 → 직접 Vercel 배포 권장 -->
-  <!-- 배포 후 URL을 본인 인스턴스로 교체: https://YOUR-APP.vercel.app/api -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Olga201207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  </a>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goni02" height="165"/>
-  
-</div>
+[![Olga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olga201207&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olga201207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olga201207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  </a>
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goni02)](https://solved.ac/goni02)
 
 ---
 
