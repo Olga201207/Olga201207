@@ -2,11 +2,11 @@
 
 🧑‍💻 **Backend Developer**를 꿈꾸는 개발자입니다.
 
-- 🎓 SSAFY 13기 수료 (서울 3반)
+- 🎓 **SSAFY 13기 수료** (서울 3반)
 - 🔭 현재 **LogLens** - AI 기반 로그 분석 모니터링 시스템 개발
 - 💡 성능 최적화와 비용 절감에 관심이 많습니다
 - 🌱 Kafka, OpenSearch, LangChain 학습 중
-- 📫 Email: your.email@gmail.com
+- 📫 Email: 01040307z@gmail.com
 
 ---
 
@@ -54,14 +54,16 @@
 ### 🚀 Featured Projects
 
 #### 🔍 LogLens - AI 기반 로그 분석 모니터링 시스템
-> SSAFY 13기 최종 프로젝트 | 2024.10 - 2024.11
+> SSAFY 13기 자율 프로젝트 | 2024.10 - 2024.11 | 팀 A306 (꿀띱 경제학당)
 
 TraceID 기반 통합 로그 수집 + AI 자동 에러 진단 시스템
 
 - **역할**: Backend Developer (Spring Boot, AI 서비스 연동, 인프라)
-- **핵심 성과**: 3-tier 캐싱 전략으로 LLM API 비용 **97-99% 절감**
-- **기술 스택**: Spring Boot, FastAPI, Kafka, OpenSearch, LangChain, AWS EKS
-- **주요 구현**: ReAct Agent 시스템 (40+ 도구), Blue-Green 배포
+- **핵심 성과**
+  - 3-tier 캐싱 전략으로 LLM API 비용 **97-99% 절감**
+  - ReAct Agent 시스템 구축 (**40+ 도구** 연동)
+  - Blue-Green 무중단 배포 파이프라인 구현
+- **기술 스택**: Spring Boot, FastAPI, Kafka, OpenSearch, LangChain, AWS EKS, Prometheus, Grafana
 
 #### 🍯 꿀띱 (KKULDDIP) - 실시간 경매 플랫폼
 > SSAFY 프로젝트 | 2024
@@ -90,13 +92,10 @@ WebSocket 기반 실시간 경매 서비스
 ### 📫 Contact
 
 <div align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:01040307z@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="YOUR_NOTION_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-  <a href="YOUR_BLOG_LINK">
-    <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
 </div>
