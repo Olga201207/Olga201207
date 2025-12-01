@@ -79,12 +79,12 @@ WebSocket 기반 실시간 경매 서비스
 ### 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=01040307z@gmail.com&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goni02" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01040307z@gmail.com&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 ---
