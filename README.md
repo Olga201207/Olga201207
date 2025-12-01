@@ -92,31 +92,20 @@ WebRTC 기반 실시간 경매 서비스
 
 <div align="center">
   
-  <!-- GitHub Stats - 직접 Vercel 배포 후 URL 교체 권장 -->
-  <!-- 현재: 공용 인스턴스 (Rate Limit 발생 가능) -->
-  <!-- 해결: 본인 Vercel 인스턴스 배포 후 URL 교체 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Olga201207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  
-  <!-- 백준 티어 -->
+  <!-- ⚠️ 공용 인스턴스는 Rate Limit 발생 가능 → 직접 Vercel 배포 권장 -->
+  <!-- 배포 후 URL을 본인 인스턴스로 교체: https://YOUR-APP.vercel.app/api -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Olga201207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  </a>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goni02" height="165"/>
   
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olga201207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olga201207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  </a>
 </div>
-
-<!-- 
-📌 GitHub Stats가 안 보일 경우 해결 방법:
-
-1. 직접 Vercel 배포 (권장):
-   - https://github.com/anuraghazra/github-readme-stats Fork
-   - Vercel에서 Import 후 PAT_1 환경변수 설정
-   - 배포된 URL로 교체
-
-2. 위 URL을 본인 Vercel URL로 교체:
-   https://github-readme-stats.vercel.app → https://YOUR-INSTANCE.vercel.app
--->
 
 ---
 
