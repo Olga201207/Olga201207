@@ -91,12 +91,12 @@ WebSocket 기반 실시간 경매 서비스
 ### 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeSeokKyu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Olga201207&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goni02" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeSeokKyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olga201207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 ---
