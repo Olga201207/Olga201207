@@ -91,7 +91,7 @@ WebRTC 기반 실시간 경매 서비스
 ### 📊 Statistics
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goni02)](https://solved.ac/goni02)
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={goni02}&theme=warm)
 ---
 
 ### 📫 Contact
