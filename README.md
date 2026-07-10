@@ -62,7 +62,7 @@ TraceID 기반 통합 로그 수집 + AI 자동 에러 진단 시스템
   - 3-tier 캐싱 전략으로 LLM API 비용 **97-99% 절감**
   - ReAct Agent 시스템 구축 (**40+ 도구** 연동)
   - Blue-Green 무중단 배포 파이프라인 구현
-- **기술 스택**: Spring Boot, FastAPI, Kafka, OpenSearch, LangChain, AWS EKS, Prometheus, Grafana
+- **기술 스택**: Spring Boot, FastAPI, Kafka, OpenSearch, LangChain, Prometheus, Grafana
 
 #### 💰 OSM - 청소년 금융 교육 플랫폼
 > SSAFY 13기 특화 프로젝트 | 2025.08 - 2025.10 | 6인 팀 프로젝트
