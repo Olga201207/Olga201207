@@ -99,7 +99,7 @@ WebRTC 기반 실시간 경매 서비스
   <a href="mailto:01040307z@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://app.notion.com/p/32be1b00e2b5804c9ab2e63697fa63d2?source=copy_link">
+  <a href="[https://app.notion.com/p/32be1b00e2b5804c9ab2e63697fa63d2?source=copy_link](https://mirage-bird-372.notion.site/32be1b00e2b5804c9ab2e63697fa63d2)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   <a href="https://github.com/Olga201207">
