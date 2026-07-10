@@ -82,7 +82,7 @@ TraceID 기반 통합 로그 수집 + AI 자동 에러 진단 시스템
 WebRTC 기반 실시간 경매 서비스
 
 - **역할**: Backend Developer
-- **핵심 성과**: 실시간 입찰 처리 최적화, **90% 이상 성능 개선**
+- **핵심 성과**: Toss 결제 연동, FCM 알림 시도와 실패
 - **기술 스택**: Spring Boot, WebRTC, SSE, Redis, MySQL
 
 ---
