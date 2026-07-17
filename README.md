@@ -72,8 +72,8 @@
   - JPA N+1: Fetch Join · @EntityGraph · @BatchSize 3가지 비교
   - 통계 쿼리 역정규화, Bulk Insert 배치 최적화
 - **측정 결과** (모두 k6 + Prometheus로 계측)
-  - 통계 조회 p95 59,989ms → 99ms (50~100 VU ramp, 8분, 100만 건)
-  - Bulk Insert p95 2,475ms → 115ms (1,440건)
+  - Bulk Insert p95 2,475ms → 115ms (1 VU, 1,440건)
+  - 통계 조회 역정규화: 100 VU에서 8분간 성공 0건(에러율 100%) → 31,659건 전부 성공, p95 99ms (100만 건)
   - Hot Key 캐시 미스 시 DB 조회 ~300회 → 2회 (300 VU 동시 요청)
 - **기술 스택**: Java 17, Spring Boot 3.1.5, JPA, MySQL, Redis, k6, Prometheus, Grafana, Docker
 
